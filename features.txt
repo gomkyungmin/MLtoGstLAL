@@ -1,0 +1,1 @@
+mass1,mass2,spin1z,spin2z,snr,chisq
